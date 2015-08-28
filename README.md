@@ -4,7 +4,7 @@ First repository
 first change in 1st branch
 <<<<<<< HEAD
 
- 1 2 3
+ 1 2 3 567
 321
 478
 =======
